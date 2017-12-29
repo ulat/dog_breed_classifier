@@ -1,0 +1,10 @@
+__pychache__
+.ipynb_checkpoints
+bottleneck_features
+.DS_STORE
+.ipynb_checkpoints
+dogImages
+
+lfw
+*.zip
+saved_models
